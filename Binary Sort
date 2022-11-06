@@ -1,0 +1,10 @@
+1)[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+Root'u 7 olarak kabul edersek;
+                      7
+                  5       8             şeklinde sırasıyla dizideki elemanlar Root'dan büyükse sağına, küçükse soluna yazılır. 
+              1               9
+                 3                      Average Case:O(logn)                 
+                    6
+                 0                      Worst Case:O(n)
+                    4
+              2
